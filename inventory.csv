@@ -1,0 +1,13 @@
+sku,product_name,category,stock_on_hand,avg_daily_demand_30d,lead_time_days,safety_stock,reorder_point,status,inventory_cost_value
+SKU-1001,Wireless Headphones,Electronics,30,19.63,9,61,237,Low Stock,375.0
+SKU-1002,Everyday Sneakers,Fashion,100,18.0,5,31,121,Healthy,1525.0
+SKU-1003,Smart Water Bottle,Home & Lifestyle,77,15.03,7,36,141,Low Stock,673.75
+SKU-1004,Cotton T-Shirt,Fashion,52,24.47,11,94,363,Low Stock,312.0
+SKU-1005,Portable Charger,Electronics,68,17.63,10,61,237,Low Stock,625.6
+SKU-1006,Ceramic Coffee Mug,Home & Lifestyle,163,26.33,6,55,212,Healthy,619.4
+SKU-1007,Yoga Mat,Sports & Fitness,18,13.37,3,14,54,Low Stock,181.8
+SKU-1008,Running Shorts,Sports & Fitness,131,19.37,3,20,78,Healthy,851.5
+SKU-1009,Desk Lamp,Home & Lifestyle,31,13.07,8,36,140,Low Stock,403.0
+SKU-1010,Bluetooth Speaker,Electronics,66,14.43,8,40,155,Low Stock,1221.0
+SKU-1011,Travel Backpack,Fashion,155,9.3,12,39,150,Healthy,3100.0
+SKU-1012,Resistance Bands,Sports & Fitness,87,22.87,3,24,92,Healthy,391.5
